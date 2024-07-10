@@ -1,17 +1,25 @@
-- 👋 Olá, meu nome é Eric
-- 👀 Tenho interesse em Aprender Novas Técnologias e Desenvolver Projetos.
-- 👔 Busco oportunidade como Estágiario ou Júnior.
-- 
-- 🌱 Estou aprendendo pelo curso ProgramadorBr ---> HTML (Avançado) CSS (Avançado)  CSS (Animações) JS (Avançado).
-- 💞️  Aprendi até agora pelo curso ProgramadorBr ---> HTML  (Básico e Intermediário) CSS (Básico e Intermediário) JS (Básico e Intermediário).
-- 📫 Próximas Etapas a aprender --->  Firebase - Firestone --> JQuery --> Bootstrap --> Firebase Storage --> Node. --> MongoDB --> React --> Redux --> Electron
+## Olá eu sou Eric Souza, estudante de ADS com foco em Front-End e Back-End!
 
-- 🌱 Estou aprendendo pelo curso Java Completo 2023 (Nélio Alves) ---> Orientação a Objeto --  UML -- JDBC -- JavaFX -- Spring Boot -- JPA -- Hibernate -- MySQL -- MongoDB
-- 💞️  Aprendi até agora pelo curso ProgramadorBr ---> Conceitos de Programação -- Introdução a Linguagem Java -- Estrutura Sequencial -- Estrutura Condicional -- Estruturas Repetitivas -- Orientação a Objeto -- Construtores -- This -- Sobrecarga -- Encapsulamento
-- Comportamento de Memória -- Arrays -- Listas -- Data Hora -- Git e Github -- Enumerações -- Composição
-- 📫 Próximas Etapas a aprender --->  Herança e Polimorfismo -- Tratamento de Exceções -- Trabalhando com Arquivos -- Interfaces -- Generics -- Set -- Map -- Programação Funcional e Expressões Lambda -- JDBC -- Java EE: Mapeamento Objeto Relacional com JPA/Hibernate
-- Projeto Web Services com Spring Boot e JPA/Hibernate -- Projeto API Restful com Spring Boot e MongoDB -- Interface Gráfica com JavaFX -- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eric5f" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric5f&layout=compact&langs_count=8&card_width=320" />
+</a>
 
--👨‍🎓 Sou Formado em Ciências Contábeis pela Universidade Nove de Julho
--👨‍🎓 Estou no Último Semestre de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho
--👨‍🎓 Estou aprendendo Língua Italiana
+ # Hard Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eric-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+  
+  ##
+  
+# Connect with me
+<div> 
+  <a href="https://instagram.com/ericsouza23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ericsouza17@hotmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ericsf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
